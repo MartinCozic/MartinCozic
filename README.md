@@ -76,7 +76,7 @@ Energy drinks consumed [■■■■■■■■■░] 90%   (send help)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MartinCozic&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartinCozic&theme=tokyonight)](https://github.com/MartinCozic)
+[![Top Languages](https://github-readme-stats-two-phi-47.vercel.app/api/top-langs/?username=MartinCozic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/MartinCozic)
 
 ---
 
