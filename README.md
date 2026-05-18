@@ -1,15 +1,49 @@
+```
+╔═══════════════════════════════════════════════════════════╗
+║  > whoami                                                 ║
+║    martin cozic — builder of things, breaker of prod      ║
+║  > location                                               ║
+║    nantes, france 🇫🇷                                      ║
+║  > status                                                 ║
+║    [■■■■■■■■░░] surviving BUT2 @ IUT Joffre               ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-
-# hey, I'm Martin 👾
-
-**BUT Informatique @ IUT de Nantes** · Building things that actually work (most of the time)
-
-*I like clean interfaces, tools that solve real problems, and coffee.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/martin-cozic)
 [![Email](https://img.shields.io/badge/martincozic500@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:martincozic500@gmail.com)
 
 </div>
+
+---
+
+## 📡 Currently...
+
+| | |
+|---|---|
+| 🎓 **Learning** | Go routines & concurrency patterns |
+| 🔨 **Building** | Something that will definitely not break in prod (i fully believe) |
+| 🎮 **Playing** | skill issue (classic) |
+| 🎵 **Listening to** | whatever keeps me awake at 2am |
+
+---
+
+## 🎓 Student Life Progress
+
+```
+BUT Informatique                              [■■■■■■░░░░] 66%
+
+Semestre 1  ████████████████████  ✅ done
+Semestre 2  ████████████████████  ✅ done
+Semestre 3  ████████████████████  ✅ done
+Semestre 4  ███████████████████░  🔄 in progress
+Semestre 5  ░░░░░░░░░░░░░░░░░░░░  ⏳ soon™
+Semestre 6  ░░░░░░░░░░░░░░░░░░░░  ⏳ soon™
+
+Sanity meter           [■■░░░░░░░░] 20%   (exam season effect)
+Energy drinks consumed [■■■■■■■■■░] 90%   (send help)
+```
 
 ---
 
@@ -40,14 +74,15 @@
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinCozic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCozic&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MartinCozic&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCozic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/MartinCozic)
 
 ---
 
 <div align="center">
 
-*Currently: somewhere between "it works on my machine" and "ship it"*
+*"It compiles. Ship it."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MartinCozic&style=flat-square&color=blue)
 
